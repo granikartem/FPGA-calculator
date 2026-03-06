@@ -1,0 +1,21 @@
+# Vivado generated files
+calculator.cache/
+calculator.hw/
+calculator.ip_user_files/
+calculator.runs/
+calculator.sim/
+calculator.gen/
+
+# Vivado logs and journals
+*.jou
+*.log
+*.str
+*.backup.*
+
+# Vivado temporary files
+.Xil/
+*.pb
+
+#IDE
+
+.idea/
